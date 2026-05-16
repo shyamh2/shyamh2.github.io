@@ -1,0 +1,8 @@
+# Build output — Netlify generates this automatically
+public/
+
+# Hugo generated resources cache
+resources/_gen/
+
+# macOS
+.DS_Store

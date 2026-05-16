@@ -1,11 +1,8 @@
 # Navigation links for the header
 
 main:
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
 
-  - title: "Blog Posts"
+  - title: "Open Questions"
     url: /year-archive/
-
-  - title: "CV"
-    url: /cv/

@@ -1,6 +1,6 @@
 ---
 title: "Neutrinoless Double Beta Decay"
-excerpt: "Literature review in high energy physics<br/><img src='/images/portfolio/item5.png'>"
+excerpt: "Literature review in high energy physics"
 collection: portfolio
 date: 2020-12-04
 categories:

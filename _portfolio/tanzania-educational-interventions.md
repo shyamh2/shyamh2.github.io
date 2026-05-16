@@ -1,6 +1,6 @@
 ---
 title: "Do Interventions Improve Educational Outcomes? Experimental Evidence from Tanzania"
-excerpt: "Impact evaluation of an educational program<br/><img src='/images/portfolio/item6.jpeg'>"
+excerpt: "Impact evaluation of an educational program"
 collection: portfolio
 date: 2021-05-11
 categories:

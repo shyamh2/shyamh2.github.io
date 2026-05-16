@@ -1,6 +1,6 @@
 ---
 title: "Prime Number Theory"
-excerpt: "A short paper on the form of prime numbers<br/><img src='/images/portfolio/item3.jpeg'>"
+excerpt: "A short paper on the form of prime numbers"
 collection: portfolio
 date: 2018-12-06
 categories:

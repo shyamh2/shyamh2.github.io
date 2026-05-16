@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Determinants of Goalscoring"
-excerpt: "Machine learning for sports analytics<br/><img src='/images/portfolio/item9.png'>"
+excerpt: "Machine learning for sports analytics"
 collection: portfolio
 date: 2022-05-01
 categories:

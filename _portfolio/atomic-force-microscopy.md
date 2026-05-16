@@ -1,6 +1,6 @@
 ---
 title: "Atomic Force Microscopy"
-excerpt: "Imaging optical disks on the atomic scale<br/><img src='/images/portfolio/item10.png'>"
+excerpt: "Imaging optical disks on the atomic scale"
 collection: portfolio
 date: 2021-11-16
 categories:

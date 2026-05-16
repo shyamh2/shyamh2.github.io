@@ -1,6 +1,6 @@
 ---
 title: "Stellar Evolution"
-excerpt: "Science through music — a physics final project<br/><img src='/images/portfolio/item2.jpg'>"
+excerpt: "Science through music — a physics final project"
 collection: portfolio
 date: 2019-05-12
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "Microgrid Simulation"
-excerpt: "Solar microgrid for EV charging in Dubai<br/><img src='/images/portfolio/item7.PNG'>"
+excerpt: "Solar microgrid for EV charging in Dubai"
 collection: portfolio
 date: 2021-12-07
 categories:

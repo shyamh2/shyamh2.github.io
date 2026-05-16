@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/shyam/Documents/GitHub/website_v2 remote set-url origin https://github.com/shyamh2/shyamh2.github.io.git)",
+      "Bash(git -C /Users/shyam/Documents/GitHub/website_v2 remote -v)"
+    ]
+  }
+}

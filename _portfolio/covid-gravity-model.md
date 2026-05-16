@@ -1,6 +1,6 @@
 ---
 title: "A Gravity Model Based Approach to Study COVID-19"
-excerpt: "Studying trade decline during the pandemic<br/><img src='/images/portfolio/item4.jpg'>"
+excerpt: "Studying trade decline during the pandemic"
 collection: portfolio
 date: 2020-05-04
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "EMH Essay"
-excerpt: "Market timing and the Efficient Market Hypothesis<br/><img src='/images/portfolio/item8.jpeg'>"
+excerpt: "Market timing and the Efficient Market Hypothesis"
 collection: portfolio
 date: 2020-12-16
 categories:

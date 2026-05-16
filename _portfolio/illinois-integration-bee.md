@@ -1,6 +1,6 @@
 ---
 title: "Illinois Integration Bee"
-excerpt: "Mathematics competition for undergraduates<br/><img src='/images/portfolio/item1.png'>"
+excerpt: "Mathematics competition for undergraduates"
 collection: portfolio
 date: 2019-04-05
 categories:
