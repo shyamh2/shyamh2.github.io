@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Shyam Hari"
-  pronouns         : # example: "she/her"
-  bio              : "PhD student, Program on Energy and Sustainable Development, Stanford University"
-  location         : "Stanford, CA"
-  employer         : "Stanford University"
+  pronouns         : "he/him"
+  bio              : "First-Year PhD student"
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan Ross School of Business"
   uri              : # URL
-  email            : "shyamh@stanford.edu"
+  email            : "shyamh@umich.edu"
 
   # Academic websites
   academia         : # URL

@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I am a first-year finance PhD student at the Ross School of Business at the University of Michigan.
+
 *I have always believed that anything one learns never goes to waste.* The first extracurricular activity I got involved in was quizzing because it showed that any obscure detail one learns can be useful; that was riveting!
 
-My passion for learning has resulted in pursuing two degrees, each with a minor. Studying physics, economics, mathematics and statistics at the University of Illinois, Urbana-Champaign broadened my understanding of the world immensely and was the experience of a lifetime.
+My research aims to answer three questions:
+1. How does trading bring information to the market?
+*A strong focus on the mechanics and how trading works in practice to facilitate the informativeness of prices.*
 
-I am currently a PhD student at the Program on Energy and Sustainable Development at Stanford University and aim to complete a PhD in economics and use my research to study and come up with solutions to scientific and societal problems. I love anything sports-related and enjoy football, cricket, table tennis, tennis and F1.
+2. To what extent to the design and rules of the marketplace affect the information that is present? Does this depend on the underlying assets being traded?
+
+3. How is this information used outside of markets? To what extent does finance and the financialization of services benefit society?
+
+These questions connect different areas of finance, and my work tackles them from an asset pricing perspective. Presently, I am interested in exploring the explosive growth of prediction markets as they provide an ideal setting to evaluate the above questions.
+
 
 I was born in Dubai, United Arab Emirates and spent the first eighteen years of my life there. It is a fascinating and vibrant city I'm happy to call home.
 
-[Resume](https://drive.google.com/file/d/1-OZsOtjlGPufCA3k0izD0Qregs9dGY2c/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1T1xogtmAgtmMvG8dxPu25mm7FkHDGKIh/view?usp=sharing)
