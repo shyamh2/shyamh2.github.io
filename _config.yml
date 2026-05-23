@@ -13,7 +13,7 @@ title                    : "Shyam Hari"
 title_separator          : "-"
 name                     : &name "Shyam Hari"
 description              : &description "Shyam Hari's personal website"
-url                      : https://shyamh2.github.io
+url                      : https://shyamh.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shyamh2/website_v2"
 
