@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-There are very few topics that do not pique my interest, and I get extremely excited when I stumble upon open questions in a field. Now, these are open to me. With each post, I aim to describe the question itself and why I find it fascinating.
+There are very few topics that do not pique my interest, and I get extremely excited when I stumble upon open questions in a field. Now, these are open to me. Here's what I'm thinking about right now.
 
 - How do we clean up India's air?
 - How is the surplus from the "convenience economy" split up?
